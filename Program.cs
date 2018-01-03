@@ -7,6 +7,7 @@ namespace myconsoleapp
         static void Main(string[] args)
         {
             Console.WriteLine("DESNEA");
+            Console.ReadLine();
         }
     }
 }

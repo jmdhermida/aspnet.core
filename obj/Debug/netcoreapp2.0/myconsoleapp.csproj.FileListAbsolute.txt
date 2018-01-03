@@ -8,3 +8,13 @@ C:\Users\juanmanuel.hermida\myconsoleapp\myconsoleapp\obj\Debug\netcoreapp2.0\my
 C:\Users\juanmanuel.hermida\myconsoleapp\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.AssemblyInfo.cs
 C:\Users\juanmanuel.hermida\myconsoleapp\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.dll
 C:\Users\juanmanuel.hermida\myconsoleapp\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.pdb
+C:\Users\juanmanuel.hermida\aspnet.core\bin\Debug\netcoreapp2.0\myconsoleapp.deps.json
+C:\Users\juanmanuel.hermida\aspnet.core\bin\Debug\netcoreapp2.0\myconsoleapp.runtimeconfig.json
+C:\Users\juanmanuel.hermida\aspnet.core\bin\Debug\netcoreapp2.0\myconsoleapp.runtimeconfig.dev.json
+C:\Users\juanmanuel.hermida\aspnet.core\bin\Debug\netcoreapp2.0\myconsoleapp.dll
+C:\Users\juanmanuel.hermida\aspnet.core\bin\Debug\netcoreapp2.0\myconsoleapp.pdb
+C:\Users\juanmanuel.hermida\aspnet.core\obj\Debug\netcoreapp2.0\myconsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\juanmanuel.hermida\aspnet.core\obj\Debug\netcoreapp2.0\myconsoleapp.AssemblyInfoInputs.cache
+C:\Users\juanmanuel.hermida\aspnet.core\obj\Debug\netcoreapp2.0\myconsoleapp.AssemblyInfo.cs
+C:\Users\juanmanuel.hermida\aspnet.core\obj\Debug\netcoreapp2.0\myconsoleapp.dll
+C:\Users\juanmanuel.hermida\aspnet.core\obj\Debug\netcoreapp2.0\myconsoleapp.pdb
